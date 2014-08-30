@@ -1,0 +1,58 @@
+{
+  "name": "gulp-uglify",
+  "description": "Minify files with UglifyJS.",
+  "version": "0.2.1",
+  "author": {
+    "name": "Terin Stock",
+    "email": "terinjokes@gmail.com"
+  },
+  "dependencies": {
+    "deepmerge": "~0.2.7",
+    "gulp-util": "~2.2.14",
+    "through2": "~0.4.0",
+    "uglify-js": "~2.4.6",
+    "vinyl": "~0.2.3"
+  },
+  "devDependencies": {
+    "tape": "~2.4.2"
+  },
+  "engines": {
+    "node": ">= 0.9"
+  },
+  "homepage": "http://terinjokes.github.io/gulp-uglify/",
+  "keywords": [
+    "gulpplugin"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/terinjokes/gulp-uglify.git"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "bugs": {
+    "url": "https://github.com/terinjokes/gulp-uglify/issues"
+  },
+  "_id": "gulp-uglify@0.2.1",
+  "dist": {
+    "shasum": "34f13ecb16c60d86fd84e2093823e62ff72f2ece",
+    "tarball": "http://registry.npmjs.org/gulp-uglify/-/gulp-uglify-0.2.1.tgz"
+  },
+  "_from": "gulp-uglify@^0.2.1",
+  "_npmVersion": "1.3.26",
+  "_npmUser": {
+    "name": "terinjokes",
+    "email": "terinjokes@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "terinjokes",
+      "email": "terinjokes@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "34f13ecb16c60d86fd84e2093823e62ff72f2ece",
+  "_resolved": "https://registry.npmjs.org/gulp-uglify/-/gulp-uglify-0.2.1.tgz"
+}
